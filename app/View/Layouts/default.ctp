@@ -69,12 +69,14 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
     <footer class="footer">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 center_f">
+                <div class="col-lg-12 center_f" >
                     © 2010 aas building centres d'affaires et location de bureaux. Tous droits réservés.
                 </div>
             </div>
         </div>
     </footer><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" type="text/javascript">
-</script><?php echo $this->Html->script('bootstrap.min'); ?>
+</script>
+<?php echo $this->Html->script('bootstrap.min'); ?>
+<?php echo $this->Html->script('html5shiv.min'); ?>
 </body>
 </html>
