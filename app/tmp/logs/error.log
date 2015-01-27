@@ -1,0 +1,579 @@
+2015-01-26 19:27:19 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /dist/js/bootstrap.min.js
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 19:27:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/js/ie10-viewport-bug-workaround.js
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 19:27:21 Error: [MissingControllerException] Controller class DistController could not be found.
+Exception Attributes: array (
+  'class' => 'DistController',
+  'plugin' => NULL,
+)
+Request URL: /dist/js/bootstrap.min.js
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 19:27:21 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /assets/js/ie10-viewport-bug-workaround.js
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 19:29:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/boostrap.min.css
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 19:29:59 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/boostrap.min.js
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 19:30:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/boostrap.min.css
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 19:30:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/boostrap.min.js
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 19:30:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/boostrap.min.css
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 19:30:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /js/boostrap.min.js
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 19:30:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /css/boostrap.min.css
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 19:38:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/cake_logo.png
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 23:54:03 Error: [MissingViewException] View file "Users/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/index.ctp',
+)
+Request URL: /users
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/dridba/www/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-01-26 23:54:41 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /admin
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 23:55:00 Error: [MissingControllerException] Controller class ContentController could not be found.
+Exception Attributes: array (
+  'class' => 'ContentController',
+  'plugin' => NULL,
+)
+Request URL: /content/admin
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-26 23:55:08 Error: [MissingActionException] Action ContentsController::admin() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContentsController',
+  'action' => 'admin',
+)
+Request URL: /contents/admin
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContentsController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-26 23:55:15 Error: [MissingActionException] Action ContentsController::admin() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContentsController',
+  'action' => 'admin',
+)
+Request URL: /contents/admin/index
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContentsController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-26 23:56:33 Error: [MissingActionException] Action ContentsController::admin() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContentsController',
+  'action' => 'admin',
+)
+Request URL: /contents/admin/index
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContentsController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-26 23:56:53 Error: [MissingActionException] Action UsersController::admin_login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_login',
+)
+Request URL: /admin/users/login
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-26 23:57:24 Error: [MissingViewException] View file "Users/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/index.ctp',
+)
+Request URL: /users
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/dridba/www/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-01-26 23:58:17 Error: [MissingActionException] Action UsersController::admin_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_index',
+)
+Request URL: /admin/users
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-26 23:58:58 Error: Fatal Error (1): Call to a member function paginate() on a non-object in [/home/dridba/www/app/Controller/UsersController.php, line 12]
+2015-01-26 23:58:58 Error: [FatalErrorException] Call to a member function paginate() on a non-object
+Request URL: /admin/users
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/dridba/ww...', 12)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/dridba/ww...', 12, Array)
+#2 /home/dridba/www/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/dridba/ww...', 12, Array)
+#3 /home/dridba/www/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-26 23:59:22 Error: [MissingViewException] View file "Users/admin_index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/admin_index.ctp',
+)
+Request URL: /admin/users
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/dridba/www/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-01-27 00:02:56 Error: [MissingActionException] Action UsersController::admin_delete() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_delete',
+)
+Request URL: /admin/users/delete/2
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 00:03:23 Error: [MissingActionException] Action UsersController::admin_add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_add',
+)
+Request URL: /admin/users/add
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 00:04:26 Error: [MissingActionException] Action UsersController::admin_add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_add',
+)
+Request URL: /admin/users/add
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 00:07:38 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /admin
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-27 00:07:52 Error: [MissingActionException] Action UsersController::admin_login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_login',
+)
+Request URL: /admin/users/login
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 00:07:57 Error: [MissingControllerException] Controller class ContentController could not be found.
+Exception Attributes: array (
+  'class' => 'ContentController',
+  'plugin' => NULL,
+)
+Request URL: /admin/content
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-27 00:08:05 Error: [MissingActionException] Action UsersController::admin_login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_login',
+)
+Request URL: /admin/users/login
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 00:11:06 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /user/add
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-27 00:11:12 Error: [MissingActionException] Action UsersController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'add',
+)
+Request URL: /users/add
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 00:13:41 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /posts
+Stack Trace:
+#0 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-27 00:16:07 Error: [MissingActionException] Action UsersController::admin_view() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_view',
+)
+Request URL: /admin/users/view/3
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 00:20:40 Error: [MissingActionException] Action UsersController::admin_view() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_view',
+)
+Request URL: /admin/users/view/3
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 00:30:46 Error: Fatal Error (1): Call to a member function find() on a non-object in [/home/dridba/www/app/Controller/PagesController.php, line 66]
+2015-01-27 00:30:46 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/dridba/ww...', 66)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/dridba/ww...', 66, Array)
+#2 /home/dridba/www/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/dridba/ww...', 66, Array)
+#3 /home/dridba/www/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-27 00:30:55 Error: [MissingTableException] Table contents for model Contents was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'contents',
+  'class' => 'Contents',
+  'ds' => 'default',
+)
+Request URL: /
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Model/Model.php(3640): Model->setSource('contents')
+#1 /home/dridba/www/lib/Cake/Model/Model.php(3018): Model->getDataSource()
+#2 /home/dridba/www/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#3 /home/dridba/www/app/Controller/PagesController.php(66): Model->find('all')
+#4 [internal function]: PagesController->display('home')
+#5 /home/dridba/www/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#6 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#8 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2015-01-27 00:33:38 Error: Fatal Error (4): syntax error, unexpected ';' in [/home/dridba/www/app/View/Pages/home.ctp, line 27]
+2015-01-27 00:33:38 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/dridba/ww...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/dridba/ww...', 27, Array)
+#2 /home/dridba/www/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/dridba/ww...', 27, Array)
+#3 /home/dridba/www/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-27 00:33:47 Error: Fatal Error (4): syntax error, unexpected ';' in [/home/dridba/www/app/View/Pages/home.ctp, line 27]
+2015-01-27 00:33:47 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/dridba/ww...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/dridba/ww...', 27, Array)
+#2 /home/dridba/www/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/dridba/ww...', 27, Array)
+#3 /home/dridba/www/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-27 00:44:09 Error: [MissingViewException] View file "Users/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/index.ctp',
+)
+Request URL: /users
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/dridba/www/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-01-27 00:44:57 Error: [MissingActionException] Action UsersController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'add',
+)
+Request URL: /users/add
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 00:47:14 Error: Fatal Error (4): syntax error, unexpected '/' in [/home/dridba/www/app/View/Layouts/default.ctp, line 54]
+2015-01-27 00:47:14 Error: [FatalErrorException] syntax error, unexpected '/'
+Request URL: /admin/contents
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/dridba/ww...', 54)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/dridba/ww...', 54, Array)
+#2 /home/dridba/www/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/dridba/ww...', 54, Array)
+#3 /home/dridba/www/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-27 00:47:28 Error: [MissingActionException] Action PagesController::admin_display() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'admin_display',
+)
+Request URL: /admin/pages/display/home
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 00:47:51 Error: [MissingActionException] Action PagesController::admin_display() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'admin_display',
+)
+Request URL: /admin/pages/display/home
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 00:47:55 Error: [MissingActionException] Action PagesController::admin_display() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'admin_display',
+)
+Request URL: /admin/pages/display/home
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 00:48:02 Error: [MissingViewException] View file "Pages/display/home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages/display/home.ctp',
+)
+Request URL: //pages/display/home
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/View/View.php(470): View->_getViewFileName('display/home')
+#1 /home/dridba/www/lib/Cake/Controller/Controller.php(959): View->render('display/home', NULL)
+#2 /home/dridba/www/app/Controller/PagesController.php(68): Controller->render('display/home')
+#3 [internal function]: PagesController->display('display', 'home')
+#4 /home/dridba/www/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2015-01-27 00:48:09 Error: [MissingViewException] View file "Pages/display/home.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages/display/home.ctp',
+)
+Request URL: /pages/display/home
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/View/View.php(470): View->_getViewFileName('display/home')
+#1 /home/dridba/www/lib/Cake/Controller/Controller.php(959): View->render('display/home', NULL)
+#2 /home/dridba/www/app/Controller/PagesController.php(68): Controller->render('display/home')
+#3 [internal function]: PagesController->display('display', 'home')
+#4 /home/dridba/www/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2015-01-27 00:50:55 Error: Fatal Error (4): syntax error, unexpected ';' in [/home/dridba/www/app/View/Layouts/default.ctp, line 59]
+2015-01-27 00:50:55 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/dridba/ww...', 59)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/dridba/ww...', 59, Array)
+#2 /home/dridba/www/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/dridba/ww...', 59, Array)
+#3 /home/dridba/www/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-27 00:51:03 Error: Fatal Error (4): syntax error, unexpected ';' in [/home/dridba/www/app/View/Layouts/default.ctp, line 59]
+2015-01-27 00:51:03 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/dridba/ww...', 59)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/dridba/ww...', 59, Array)
+#2 /home/dridba/www/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/dridba/ww...', 59, Array)
+#3 /home/dridba/www/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-27 00:56:02 Error: [MissingActionException] Action UsersController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+)
+Request URL: /users/login/prefix:admin
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 00:57:25 Error: [MissingActionException] Action UsersController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+)
+Request URL: /users/login/prefix:admin
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-01-27 00:58:08 Error: Fatal Error (1): Call to a member function link() on a non-object in [/home/dridba/www/app/View/Layouts/default.ctp, line 60]
+2015-01-27 00:58:08 Error: [FatalErrorException] Call to a member function link() on a non-object
+Request URL: /
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/home/dridba/ww...', 60)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/home/dridba/ww...', 60, Array)
+#2 /home/dridba/www/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/home/dridba/ww...', 60, Array)
+#3 /home/dridba/www/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-27 01:07:39 Error: Fatal Error (4): syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in [/home/dridba/www/app/Controller/AppController.php, line 41]
+2015-01-27 01:07:39 Error: [FatalErrorException] syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION)
+Request URL: /
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/dridba/ww...', 41)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/dridba/ww...', 41, Array)
+#2 /home/dridba/www/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/dridba/ww...', 41, Array)
+#3 /home/dridba/www/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-27 01:09:27 Error: Fatal Error (64): Can't use method return value in write context in [/home/dridba/www/app/Controller/AppController.php, line 43]
+2015-01-27 01:09:27 Error: [FatalErrorException] Can't use method return value in write context
+Request URL: /
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/home/dridba/ww...', 43)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/home/dridba/ww...', 43, Array)
+#2 /home/dridba/www/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/home/dridba/ww...', 43, Array)
+#3 /home/dridba/www/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-01-27 01:26:38 Error: [MissingViewException] View file "Users/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/index.ctp',
+)
+Request URL: /users
+Stack Trace:
+#0 /home/dridba/www/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/dridba/www/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/dridba/www/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /home/dridba/www/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
