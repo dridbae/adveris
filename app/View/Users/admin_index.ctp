@@ -20,7 +20,7 @@
 
 		<td class="actions">
 
-			<?php echo $this->Html->link(__('Edit'), array('action' => 'edit', $content['User']['id'])); ?>
+
 			<?php echo $this->Form->postLink(__('Delete'), array('action' => 'delete', $content['User']['id']), array(), __('Are you sure you want to delete # %s?', $content['User']['id'])); ?>
 		</td>
 	</tr>
