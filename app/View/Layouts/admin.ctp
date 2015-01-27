@@ -54,13 +54,13 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
                 <ul class="nav navbar-nav">
                     <li><a href="/" title="Accueil">Accueil</a></li>
 
-                    <li><a href="#about" title="Les services">Les services</a></li>
+                    <li><a href="#" title="Les services">Les services</a></li>
 
-                    <li><a href="#contact" title="Le réseau">Le réseau</a></li>
+                    <li><a href="#" title="Le réseau">Le réseau</a></li>
 
-                    <li><a href="#contact" title="Plan du site">Plan du site</a></li>
+                    <li><a href="#" title="Plan du site">Plan du site</a></li>
 
-                    <li><a href="#contact" title="Nous contacter">Nous contacter</a></li>
+                    <li><a href="#" title="Nous contacter">Nous contacter</a></li>
                 </ul><?= $this->
                 Html->link('Accéder à l\'administration', array('controller' => 'admin'),array('class' => 'connect_link')); ?> <?= $this->
                 Html->link('Se déconnecter', array('controller' => 'users', 'action' => 'logout'),array('class' => 'connect_link')); ?>

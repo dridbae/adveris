@@ -49,23 +49,21 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Toggle navigation</span> </button>
             </div>
-
             <div id="navbar" class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
                     <li><a href="/" title="Accueil">Accueil</a></li>
 
-                    <li><a href="#about" title="Les services">Les services</a></li>
+                    <li><a href="#" title="Les services">Les services</a></li>
 
-                    <li><a href="#contact" title="Le réseau">Le réseau</a></li>
+                    <li><a href="#" title="Le réseau">Le réseau</a></li>
 
-                    <li><a href="#contact" title="Plan du site">Plan du site</a></li>
+                    <li><a href="#" title="Plan du site">Plan du site</a></li>
 
-                    <li><a href="#contact" title="Nous contacter">Nous contacter</a></li>
+                    <li><a href="#" title="Nous contacter">Nous contacter</a></li>
                 </ul><?= $this->Html->link('Se connecter', array('controller' => 'users', 'action' => 'login'),array('class' => 'connect_link')); ?>
             </div>
         </div>
     </nav><?php echo $this->Session->flash(); ?><?php echo $this->fetch('content'); ?>
-
     <footer class="footer">
         <div class="container">
             <div class="row">
