@@ -69,7 +69,7 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
     <footer class="footer">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12" style="text-align:center">
+                <div class="col-lg-12 center_f">
                     © 2010 aas building centres d'affaires et location de bureaux. Tous droits réservés.
                 </div>
             </div>

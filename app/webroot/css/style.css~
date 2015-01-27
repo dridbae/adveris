@@ -85,7 +85,7 @@ margin: 15px 5px 0px 5px;
 {
 	color:#CECECE;
 }
-.center_f
+.footer_f
 {
 text-align:center;
 }
