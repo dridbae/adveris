@@ -23,7 +23,7 @@
 		<td><?php echo h($content['Content']['update_date']); ?>&nbsp;</td>
 		<td class="actions">
 			<?php echo $this->Html->link(__('Edit'), array('admin' => true,'action' => 'edit', $content['Content']['id'])); ?>
-			<?php echo $this->Form->postLink(__('Delete'), array('action' => 'delete', $content['Content']['id']), array(), __('Are you sure you want to delete # %s?', $content['Content']['id'])); ?>
+			<?php echo $this->Form->postLink(__('Delete'), array('admin' => true,'action' => 'delete', $content['Content']['id']), array(), __('Are you sure you want to delete # %s?', $content['Content']['id'])); ?>
 		</td>
 	</tr>
 <?php endforeach; ?>
