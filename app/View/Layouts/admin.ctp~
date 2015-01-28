@@ -54,13 +54,13 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
                 <ul class="nav navbar-nav">
                     <li><a href="/" title="Accueil">Accueil</a></li>
 
-                    <li><a href="#about" title="Les services">Les services</a></li>
+                    <li><a href="#" title="Les services">Les services</a></li>
 
-                    <li><a href="#contact" title="Le réseau">Le réseau</a></li>
+                    <li><a href="#" title="Le réseau">Le réseau</a></li>
 
-                    <li><a href="#contact" title="Plan du site">Plan du site</a></li>
+                    <li><a href="#" title="Plan du site">Plan du site</a></li>
 
-                    <li><a href="#contact" title="Nous contacter">Nous contacter</a></li>
+                    <li><a href="#" title="Nous contacter">Nous contacter</a></li>
                 </ul><?= $this->
                 Html->link('Accéder à l\'administration', array('controller' => 'admin'),array('class' => 'connect_link')); ?> <?= $this->
                 Html->link('Se déconnecter', array('controller' => 'users', 'action' => 'logout'),array('class' => 'connect_link')); ?>
@@ -71,12 +71,14 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
     <footer class="footer">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 footer_f">
+                <div class="col-lg-12 center_f" >
                     © 2010 aas building centres d'affaires et location de bureaux. Tous droits réservés.
                 </div>
             </div>
         </div>
     </footer><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" type="text/javascript">
-</script><?php echo $this->Html->script('bootstrap.min'); ?>
+</script>
+<?php echo $this->Html->script('bootstrap.min'); ?>
+<?php echo $this->Html->script('html5shiv.min'); ?>
 </body>
 </html>
